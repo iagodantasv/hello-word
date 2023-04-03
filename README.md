@@ -1,2 +1,2 @@
 # hello-word
-# Primeiro exercicio da Cubos Academy
+Primeiro exercicio da Cubos Academy
